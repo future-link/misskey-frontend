@@ -1,4 +1,6 @@
-# web
+# Misskey-frontend
+
+[![Build Status](https://travis-ci.org/future-link/misskey-frontend.svg?branch=master)](https://travis-ci.org/future-link/misskey-frontend)
 
 > A Vue.js project
 
