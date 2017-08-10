@@ -1,8 +1,11 @@
 <template>
   <div class='timeline-container'>
-    <p>Home</p>
+    <p>{{hoge}}</p>
   </div>
 </template>
+
+<script>
+</script>
 
 <style>
 .timeline-container {

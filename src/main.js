@@ -4,9 +4,6 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Home from './web/Home'
-import { sync } from 'vuex-router-sync'
-
-sync(Home, router)
 
 Vue.config.productionTip = false
 
